@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Studying About Docker and ASP.NET CORE</strong></h1>
+<h1 align="center"><strong>Estudos sobre Docker</strong></h1>
 
 <hr/>
 
@@ -7,10 +7,13 @@
 </p> 
 
 <p align="center">
-    <img src="/Img/docker_and_aspnetcore.png" alt="Docker and ASP.NET Core" title="TrueLove">
+    <img src="/Img/docker_and_aspnetcore.png" alt="Docker e ASP.NET Core" title="TrueLove">
 </p> 
 
-### ` 🔍 Topics`
+### ` ⚙ Componentes do Docker`
+<p><strong>Docker Daemon:</strong> </p>
+
+### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: get image from DockerHub</p>
 
 <p>$ docker images: list images avaliables</p>
@@ -30,6 +33,8 @@
 <p>$ docker rmi image_name: remove image</p>
 
 ### ` 🌐 Referências`
+- Maratona de Docker: https://www.youtube.com/watch?v=T1DTpS9HCWU&ab_channel=Fabr%C3%ADcioVeronezDevOpsPro
+
 - Docker Introduction, Architecture, and Command Details Part-I: https://blog.devops.dev/docker-introduction-and-architecture-8637d9d1c4dc
 
 - Continuous Integration with .NET Core and Gitlab: https://faun.pub/continuous-integration-with-net-core-and-gitlab-5cd51161c072
