@@ -10,7 +10,7 @@
     <img src="/Img/docker_and_aspnetcore.png" alt="Docker e ASP.NET Core" title="TrueLove">
 </p> 
 
-### ` ⚙ Componentes do Docker`
+### ` ⚙ Arquitetura do Docker`
 <p><strong>Docker Daemon:</strong> é o elemento responsável por executar os containers e gerenciar todos os objetos dentro do Docker</p>
 
 <p align="center">
