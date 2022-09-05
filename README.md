@@ -17,6 +17,10 @@
 
 <p><strong>Docker Registry:</strong> é o repositório de imagens Docker.</p>
 
+<p align="center">
+    <img src="/Img/arquitetura-docker.png" alt="Arquitetura Docker" title="Arquitetura Docker">
+</p> 
+
 ### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: get image from DockerHub</p>
 
