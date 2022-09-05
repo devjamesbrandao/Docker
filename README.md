@@ -28,3 +28,10 @@
 <p>$ docker rm container_id: remove container</p>
 
 <p>$ docker rmi image_name: remove image</p>
+
+### ` 🌐 Referências`
+- Docker Introduction, Architecture, and Command Details Part-I: https://blog.devops.dev/docker-introduction-and-architecture-8637d9d1c4dc
+
+- Continuous Integration with .NET Core and Gitlab: https://faun.pub/continuous-integration-with-net-core-and-gitlab-5cd51161c072
+
+- Building a docker image with Gitlab CI and .NET Core: https://faun.pub/building-a-docker-image-with-gitlab-ci-and-net-core-8f59681a86c4
