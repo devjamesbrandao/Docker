@@ -15,6 +15,8 @@
 
 <p><strong>Docker Client:</strong> é a ferramenta de interação e comunicação com o Docker Daemon.</p>
 
+<p><strong>Docker Registry:</strong> é o repositório de imagens Docker.</p>
+
 ### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: get image from DockerHub</p>
 
