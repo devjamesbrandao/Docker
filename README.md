@@ -22,13 +22,19 @@
 </p> 
 
 ### ` 🔍 Principais comandos do Docker`
-<p>$ docker pull image_name: get image from DockerHub</p>
+<p>$ docker pull image_name: obter imagem do DockerHub</p>
 
-<p>$ docker images: list images avaliables</p>
+<p>$ docker images: lista todas as imagens disponíveis</p>
 
-<p>$ docker run --name my_container -p 8080:80 -d image_name: create and start container</p>
+<p>$ docker run --name container -p 8080:80 -d imagem: cria um novo container a partir de uma imagem e inicia-o</p>
 
-<p>$ docker ps -a: list all the containers</p>
+<p>$ docker container ls: lista todos os containers em execução</p>
+
+<p>$ docker container ls -a: lista todos os containers disponíveis</p>
+
+<p>$ docker inspect container_id: detalhes sobre um container específico</p>
+
+<p>$ docker container run -it ubuntu /bin/bash: o parâmetro <strong>-it</strong> permite interagir com o container</p>
 
 <p>$ docker stop name_or_id_container: stop container</p>
 
