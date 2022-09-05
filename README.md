@@ -11,7 +11,11 @@
 </p> 
 
 ### ` ⚙ Componentes do Docker`
-<p><strong>Docker Daemon:</strong> </p>
+<p><strong>Docker Daemon:</strong> é o elemento responsável por executar os containers e gerenciar todos os objetos dentro do Docker</p>
+
+<p align="center">
+    <img src="/Img/docker-daemon.png" alt="Docker Daemon" title="Docker Daemon">
+</p> 
 
 ### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: get image from DockerHub</p>
