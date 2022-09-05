@@ -11,11 +11,9 @@
 </p> 
 
 ### ` ⚙ Arquitetura do Docker`
-<p><strong>Docker Daemon:</strong> é o elemento responsável por executar os containers e gerenciar todos os objetos dentro do Docker</p>
+<p><strong>Docker Daemon:</strong> é o elemento responsável por executar os containers e gerenciar todos os objetos dentro do Docker.</p>
 
-<p align="center">
-    <img src="/Img/docker-daemon.png" alt="Docker Daemon" title="Docker Daemon">
-</p> 
+<p><strong>Docker Client:</strong> é a ferramenta de interação e comunicação com o Docker Daemon.</p>
 
 ### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: get image from DockerHub</p>
