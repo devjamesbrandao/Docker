@@ -62,6 +62,8 @@
 
 <p>$ docker rmi image_name: remove imagem</p>
 
+<p>$ docker image prune: remove todas as imagens não utilizadas</p>
+
 <p>$ docker build -t teste/teste:v1 -f Dockerfile . : permite criar imagem da aplicação</p>
 
 ### ` 🌐 Referências`
