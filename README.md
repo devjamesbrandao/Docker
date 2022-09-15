@@ -28,6 +28,13 @@
     <img src="/Img/port-bind.png" alt="Port Bind" title="Port Bind">
 </p> 
 
+### ` 📄 DockerFile`
+<p>Permite construir a imagem da aplicação para que essa possa ser executada em um container Docker</p>
+
+<p align="center">
+    <img src="/Img/dockerfile.png" alt="DockerFile" title="DockerFile">
+</p> 
+
 ### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: obter imagem do DockerHub</p>
 
