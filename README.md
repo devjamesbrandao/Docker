@@ -62,6 +62,8 @@
 
 <p>$ docker rmi image_name: remove imagem</p>
 
+<p>$ docker build -t teste/teste:v1 -f Dockerfile . : permite criar imagem da aplicação</p>
+
 ### ` 🌐 Referências`
 - Maratona de Docker: https://www.youtube.com/watch?v=T1DTpS9HCWU&ab_channel=Fabr%C3%ADcioVeronezDevOpsPro
 
