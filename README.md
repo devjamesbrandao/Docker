@@ -21,6 +21,13 @@
     <img src="/Img/arquitetura-docker.png" alt="Arquitetura Docker" title="Arquitetura Docker">
 </p> 
 
+### ` 🚪 Port Bind`
+<p>Permite vincular uma porta local da máquina com a porta da aplicação executando dentro do container</p>
+
+<p align="center">
+    <img src="/Img/port-bind.png" alt="Port Bind" title="Port Bind">
+</p> 
+
 ### ` 🔍 Principais comandos do Docker`
 <p>$ docker pull image_name: obter imagem do DockerHub</p>
 
@@ -36,15 +43,15 @@
 
 <p>$ docker container run -it ubuntu /bin/bash: o parâmetro <strong>-it</strong> permite interagir com o container</p>
 
-<p>$ docker stop name_or_id_container: stop container</p>
+<p>$ docker stop name_ou_id_container: parar container</p>
 
-<p>$ docker start name_or_id_container: start container</p>
+<p>$ docker start name_ou_id_container: iniciar container</p>
 
-<p>$ docker restart name_or_id_container: restart container</p>
+<p>$ docker restart name_ou_id_container: reiniciar container</p>
 
 <p>$ docker rm container_id: remove container</p>
 
-<p>$ docker rmi image_name: remove image</p>
+<p>$ docker rmi image_name: remove imagem</p>
 
 ### ` 🌐 Referências`
 - Maratona de Docker: https://www.youtube.com/watch?v=T1DTpS9HCWU&ab_channel=Fabr%C3%ADcioVeronezDevOpsPro
