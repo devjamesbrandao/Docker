@@ -66,6 +66,10 @@
 
 <p>$ docker build -t teste/teste:v1 -f Dockerfile . : permite criar imagem da aplicação</p>
 
+<p>$ docker network create rede</p>
+
+<p>$ docker network ls</p>
+
 ### ` 🌐 Referências`
 - Maratona de Docker: https://www.youtube.com/watch?v=T1DTpS9HCWU&ab_channel=Fabr%C3%ADcioVeronezDevOpsPro
 
