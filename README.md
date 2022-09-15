@@ -51,6 +51,8 @@
 
 <p>$ docker rm container_id: remove container</p>
 
+<p>$ docker container rm $(docker container ls -aq): remove todos os containers em execução</p>
+
 <p>$ docker rmi image_name: remove imagem</p>
 
 ### ` 🌐 Referências`
